@@ -1,5 +1,17 @@
 # Transações Financeiras
 
+**Rodar o projeto**
+
+Ao clonar o projeto abra o terminal e execute o comando
+
+`npm install`
+
+`npm run serve`
+
+**Rodar os teste **
+
+`npm test`
+# 
 Rotas da aplicação
 
  - POST /transactions: A rota deve recebe title, value e type dentro do corpo da requisição, sendo type o tipo da transação, que deve ser income para entradas (depósitos) e outcome para saídas (retiradas). Ao cadastrar uma nova transação, ela deve ser armazenada dentro de um objeto com o seguinte formato :
