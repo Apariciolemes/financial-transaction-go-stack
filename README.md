@@ -8,7 +8,7 @@ Ao clonar o projeto abra o terminal e execute o comando
 
 `npm run serve`
 
-**Rodar os teste **
+**Rodar os testes**
 
 `npm test`
 # 
